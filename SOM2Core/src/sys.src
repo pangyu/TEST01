@@ -1,0 +1,2 @@
+configPath=http://192.168.1.12/solr_manage/solrconfig
+app.zkHost=172.16.0.2:2181,172.16.0.3:2181,172.16.0.4:2181
